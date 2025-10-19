@@ -1,1 +1,1 @@
-# Livro-Front-End
+Exemplo simples de um livro usando HTML, CSS e JS
